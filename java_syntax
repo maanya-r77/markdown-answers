@@ -1,0 +1,14 @@
+# Java Syntax Basics
+
+Java programs are organized into **classes** and **methods**. The **entry point** of every Java application is the `main` method.
+
+---
+
+## Basic Structure of a Java Program
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
